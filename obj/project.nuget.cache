@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kiBEzmWUyUs2/rsIfV+MyWO6rxvLk9qe4tqd6wmJwaywL1USjLJxMG3ZXTh39v+C+p+95/6LRik0iAzNjRciPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomasz2.0\\Desktop\\Cz2.0\\KampaniaUI\\KampaniaUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomasz2.0\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
